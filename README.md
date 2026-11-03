@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Zheng Cheng
 
-<!--
-**Zheng1234/Zheng1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Systems & Platform Engineer | Linux Kernel | Satellite Imaging | Computer Vision | Distributed Systems | AI**
 
-Here are some ideas to get you started:
+I am a systems and software engineer with a PhD in Computer and Electrical Engineering and extensive experience developing performance-critical software across Linux, embedded platforms, hardware acceleration, wireless communications, and computer vision.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work spans low-level kernel and driver development, hardware/software integration, distributed systems, signal processing, and AI-enabled engineering workflows.
+
+## Areas of Expertise
+
+- **Systems Programming:** C, C++, C++20, Python, Linux kernel development, device drivers, memory management, and asynchronous processing.
+- **Hardware Acceleration:** PCIe, DMA, FPGA, hardware cryptographic acceleration, firmware interfaces, and performance optimization.
+- **Embedded Systems:** Embedded Linux, Yocto, RTOS, bare-metal development, ARM platforms, and hardware bring-up.
+- **Satellite Imaging, Signal Processing & Wireless Systems:** SAR satellite imaging, signal processing, SDR, AIS, cellular communications, and private LTE.
+- **Computer Vision & AI:** Image processing, video stabilization, object detection, object tracking, LiDAR, OpenCV, and CUDA.
+- **Distributed Systems:** gRPC, REST APIs, TCP/IP, remote monitoring, and network-connected embedded systems.
+- **AI-Assisted Engineering:** Python-based automation, LLM integration, remote build and test execution, diagnostic analysis, and structured reporting.
+
+## Engineering Interests
+
+I am particularly interested in building reliable, high-performance software that connects hardware, operating systems, and intelligent applications.
+
+Current areas of interest include:
+
+- Linux kernel and platform engineering
+- High-throughput data processing and hardware acceleration
+- Satellite imaging, image processing, and geospatial data systems
+- Computer vision and intelligent perception systems
+- Distributed data pipelines and scalable infrastructure
+- AI-assisted software development and engineering automation
+
+## Technologies
+
+`C` `C++` `C++20` `Python` `Linux` `Linux Kernel` `Yocto` `PCIe` `DMA` `FPGA` `QEMU` `OpenCV` `CUDA` `gRPC` `DSP` `SAR` `RTOS`
+
+## Background
+
+- **PhD in Computer and Electrical Engineering** — National University of Singapore
+- **Postdoctoral Research** — University of Waterloo
+- Engineering experience across satellite communications, embedded systems, automotive platforms, wireless infrastructure, computer vision, and hardware acceleration.
+
+---
+
+*Focused on engineering solutions that are efficient, reliable, and verifiable.*
