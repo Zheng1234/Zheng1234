@@ -39,6 +39,16 @@ Current areas of interest include:
 - **Postdoctoral Research** — University of Waterloo
 - Engineering experience across satellite communications, embedded systems, automotive platforms, wireless infrastructure, computer vision, and hardware acceleration.
 
+## Selected Publications
+
+**A New Time Delay Estimator Based on ETDE**
+
+- **Authors:** Zheng Cheng and Tjeng Thiang Tjhung
+- **Journal:** IEEE Transactions on Signal Processing, Vol. 51, No. 7, pp. 1859–1869, July 2003.
+- **DOI:** [10.1109/TSP.2003.812735](https://doi.org/10.1109/TSP.2003.812735)
+- **Publication:** [IEEE Xplore](https://ieeexplore.ieee.org/document/1028331)
+
+Research on adaptive subsample time-delay estimation for narrowband signals, introducing the Mixed Modulated Lagrange Explicit Time Delay Estimation (MMLETDE) algorithm, with theoretical analysis and performance evaluation.
 ---
 
 *Focused on engineering solutions that are efficient, reliable, and verifiable.*
