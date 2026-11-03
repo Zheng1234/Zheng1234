@@ -41,14 +41,32 @@ Current areas of interest include:
 
 ## Selected Publications
 
-**A New Time Delay Estimator Based on ETDE**
+**1. A New Time Delay Estimator Based on ETDE**
 
 - **Authors:** Zheng Cheng and Tjeng Thiang Tjhung
 - **Journal:** IEEE Transactions on Signal Processing, Vol. 51, No. 7, pp. 1859–1869, July 2003.
 - **DOI:** [10.1109/TSP.2003.812735](https://doi.org/10.1109/TSP.2003.812735)
 - **Publication:** [IEEE Xplore](https://ieeexplore.ieee.org/document/1028331)
 
-Research on adaptive subsample time-delay estimation for narrowband signals, introducing the Mixed Modulated Lagrange Explicit Time Delay Estimation (MMLETDE) algorithm, with theoretical analysis and performance evaluation.
+Research on adaptive time-delay estimation for communication signals.
+
+**2. Channel Estimation by Modulated Lagrange Interpolation**
+
+- **Authors:** Zheng Cheng and Jon W. Mark
+- **Journal:** Signal Processing (Elsevier), Vol. 90, Issue 9, pp. 2749–2759, September 2010.
+- **DOI:** [10.1016/j.sigpro.2010.03.026](https://doi.org/10.1016/j.sigpro.2010.03.026)
+- **Publication:** [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0165168410001301)
+
+Research introducing modulated Lagrange interpolation for pilot-assisted OFDM channel estimation, improving estimation accuracy while maintaining computational simplicity.
+
+**3. Robust Image Signal-to-Noise Ratio Estimation Using Mixed Lagrange Time Delay Estimation Autoregressive Model**
+
+- **Authors:** K. S. Sim, Zheng Cheng, and H. T. Chuah
+- **Journal:** Scanning, Vol. 26, Issue 6, pp. 287–295, 2004.
+- **DOI:** [10.1002/sca.4950260607](https://doi.org/10.1002/sca.4950260607)
+- **Publication:** [PubMed](https://pubmed.ncbi.nlm.nih.gov/15612206/)
+
+Research combining Lagrange time-delay estimation with autoregressive modelling for robust signal-to-noise ratio estimation in scanning electron microscope images.
 ---
 
 *Focused on engineering solutions that are efficient, reliable, and verifiable.*
